@@ -12,7 +12,7 @@ Ionic React
 Capacitor 
 
 # Execution
-ionic serve 
+```ionic serve``` 
 
 # Authors
 Dilean Bermudez 
