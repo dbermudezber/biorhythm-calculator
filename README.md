@@ -11,7 +11,7 @@ https://biorhy-calculator.netlify.app/
 Ionic React
 Capacitor 
 
-To Run: 
+# Execution
 ionic serve 
 
 # Authors
