@@ -8,7 +8,7 @@ https://biorhy-calculator.netlify.app/
 
 
 # Getting Started
-Ionic Reac
+Ionic React  
 Capacitor 
 
 # Execution
