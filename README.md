@@ -8,10 +8,11 @@ https://biorhy-calculator.netlify.app/
 
 
 # Getting Started
-Ionic React
+Ionic Reac
 Capacitor 
 
 # Execution
+In the terminal of IDE enter:  
 ```ionic serve``` 
 
 # Authors
